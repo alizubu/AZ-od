@@ -1,17 +1,10 @@
-[![Discord](https://discordapp.com/api/guilds/298762167388471296/widget.png?)](https://discord.gg/zvvasbc )  [![Discord Bots](https://discordbots.org/api/widget/status/417345362496585728.svg)](https://discordbots.org/bot/417345362496585728)  [![Discord Bots](https://discordbots.org/api/widget/servers/417345362496585728.svg?noavatar=true)](https://discordbots.org/bot/417345362496585728)  [![Discord Bots](https://discordbots.org/api/widget/upvotes/417345362496585728.svg?noavatar=true)](https://discordbots.org/bot/417345362496585728)  [![Discord Bots](https://discordbots.org/api/widget/lib/417345362496585728.svg?noavatar=true)](https://discordbots.org/bot/417345362496585728)  [![Discord Bots](https://discordbots.org/api/widget/owner/417345362496585728.svg)](https://discordbots.org/bot/417345362496585728)  [![Bot](https://img.shields.io/badge/DiscordBot-Yes-green.svg)](https://bot.odar.xyz) ![travis-ci.org/](https://travis-ci.org/OdarGM/OdarBot.svg?branch=master)
-
-
-# Odar Disord Bot
+# AZ Disord Bot
 
 ----
-## What is [OdarBot](https://discordapp.com/oauth2/authorize?client_id=417345362496585728&scope=bot&permissions=2146958591)
+## What is AZ Bot
 
-> OdarBot is Discord Bot with alot of Fun commands and aslot Moderaion commands like: *Ban, Kick, Mute, Warn* and more!
+> AZ Bot is Discord Bot with alot of Fun commands and aslot Moderaion commands like: *Ban, Kick, Mute, Warn* and more!
 
-## Support
-* If you have any questions feel free to join the **[Support Server](https://discord.gg/zvvasbc )**
-* Found bug? Use `!contact` to let us know!
-----
 
 # Commands
 
@@ -49,7 +42,7 @@
 
 * `!ping` **Check the bot ping** _Usage_: *!ping*
 * `!id` **Gives you the id of user** _Usage_: *!id [@user]*
-* `!invite` **Gives you [invite](https://discordapp.com/oauth2/authorize?client_id=417345362496585728&scope=bot&permissions=2146958591) for the bot** _Usage_: *!invite*
+* `!invite` **Gives you [invite] for the bot** _Usage_: *!invite*
 * `!avatar` **Gives you someone's avatar** _Usage_: *!avatar [@user]*
 * `!icon` **Gives you the server icon** _Usage_: *!icon*
 * `!botinfo` **Gives the bot info** _Usage_: *!botinfo*
