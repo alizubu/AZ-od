@@ -68,6 +68,6 @@ bot.on("message", async message => {
     
 });
 
-bot.login(process.env.token);
+bot.login('NjUxNjc0MzA1NTU3NDMwMjgy.XedVPg.e6w2Eww1hJh6_Hmcw57krGRJcvk');
 
 //restart
